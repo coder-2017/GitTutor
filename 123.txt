@@ -1,2 +1,4 @@
 Tuesday
+thursday
+>>>>>>> Stashed changes
 Helloo
